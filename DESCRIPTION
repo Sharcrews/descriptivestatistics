@@ -2,10 +2,9 @@ Package: descriptivestatistics
 Type: Package
 Title: Provides descriptive statistics
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Sharlee Crews (followed Dr. Rai)
+Maintainer: The package maintainer <screws.usf.edu>
+Description: Performs Descriptive Statistics
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
